@@ -78,23 +78,23 @@ __Latest commit__ https://github.com/atom/atom/commit/2f23f7cd945cf6475873200fe9
 
 __Issues__
 
-- __how many open issues are there:__ 
-    - __url for the last issue created:__
-    - __how many users discuss the issue:__
-    - __when was the issue reported:__
+- __how many open issues are there:__ 789
+    - __url for the last issue created:__ https://github.com/atom/atom/issues/16691
+    - __how many users discuss the issue:__ 2
+    - __when was the issue reported:__ 2 days ago
 
-- __how many closed issues are there:__
-    - __url for the last issue closed:__
-    - __how many users discussed the issue:__
-    - __when was the issue reported:__
-    - __when was the issue closed:__ 
+- __how many closed issues are there:__ 11,966
+    - __url for the last issue closed:__ https://github.com/atom/atom/issues/16699
+    - __how many users discussed the issue:__ 2
+    - __when was the issue reported:__ An hour ago
+    - __when was the issue closed:__ An hour ago
     
-- __is there active discussion on the issues:__ 
+- __is there active discussion on the issues:__ Yes
 
 
 
 - __are there issues marked "good for newbies", "beginner" or some other indicator ot=o imply that they
-are good for beginner contributors:__ 
+are good for beginner contributors:__ No
 
 
 
