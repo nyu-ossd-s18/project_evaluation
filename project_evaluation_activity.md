@@ -136,4 +136,3 @@ Do pull requests get reviewed?
 
 Do maintainers thank people for their contributions?
 
-
