@@ -36,13 +36,13 @@ __Contributing instructions:__
 - Download and install OpenMRS SDK
 - Claim an issue
 
-__URL for the code repository:__ [](https://github.com/OpenMRS/openmrs-core)
+__URL for the code repository:__ [github](https://github.com/OpenMRS/openmrs-core)
 
-__Bug/Issue tracker link:__ [](https://issues.openmrs.org/secure/Dashboard.jspa)
+__Bug/Issue tracker link:__ [issues](https://issues.openmrs.org/secure/Dashboard.jspa)
 
-__Mailing list:__ [](https://talk.openmrs.org/t/openmrs-talk-email-discussion-groups/1165)
+__Mailing list:__ [email group](https://talk.openmrs.org/t/openmrs-talk-email-discussion-groups/1165)
 
-__Chat channel:__ [](https://wiki.openmrs.org/display/IRC)
+__Chat channel:__ [IRC](https://wiki.openmrs.org/display/IRC)
 
 
 
@@ -56,14 +56,14 @@ __Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ 
 
 __Programming Language:__ Java
 
-__URL for contributing instructions:__ [](https://wiki.openmrs.org/display/docs/Getting+Started+as+a+Developer)
+__URL for contributing instructions:__ [wiki](https://wiki.openmrs.org/display/docs/Getting+Started+as+a+Developer)
 
 __URL for code of conduct / community norms / community guildelines:__ 
 [Code of Conduct](https://wiki.openmrs.org/display/docs/Code+of+Conduct)
 [Community Norms/Guidelines](http://devmanual.openmrs.org/en/Community/workingCooperatively.html)
 
 
-__URL for instructions for users to dondload an istall the package:__ [](https://wiki.openmrs.org/display/docs/OpenMRS+SDK)
+__URL for instructions for users to dondload an istall the package:__ [OpenMRC SDK](https://wiki.openmrs.org/display/docs/OpenMRS+SDK)
 
 __Number of contributors:__ 287
 
@@ -78,19 +78,19 @@ __Number of commits:__ 10,477
 
 __Latest commit__ 5 February 2018
     
-- __link to the commit:__ [](https://github.com/openmrs/openmrs-core/commit/b59038ec28e08ce9fe61f094d0c0c8fb8b72070e)
+- __link to the commit:__ [link](https://github.com/openmrs/openmrs-core/commit/b59038ec28e08ce9fe61f094d0c0c8fb8b72070e)
 - __who made that commit:__ djazayeri
 
 
 __Issues__
 
 - __how many open issues are there:__ 4,869
-    - __url for the last issue created:__ [](https://issues.openmrs.org/browse/SYNCT-116?filter=-6&jql=created%20%3E%3D%20-1w%20ORDER%20BY%20created%20DESC)
+    - __url for the last issue created:__ [link](https://issues.openmrs.org/browse/SYNCT-116?filter=-6&jql=created%20%3E%3D%20-1w%20ORDER%20BY%20created%20DESC)
     - __how many users discuss the issue:__ 0
     - __when was the issue reported:__ 2018-02-08 16:11:25 GMT
 
 - __how many closed issues are there:__ 10,873
-    - __url for the last issue closed:__[](https://issues.openmrs.org/browse/AOM-120?filter=-7&jql=status%20%3D%20Closed%20AND%20resolved%20%3E%3D%20-1w%20order%20by%20updated%20DESC)
+    - __url for the last issue closed:__[link](https://issues.openmrs.org/browse/AOM-120?filter=-7&jql=status%20%3D%20Closed%20AND%20resolved%20%3E%3D%20-1w%20order%20by%20updated%20DESC)
     - __how many users discussed the issue:__ >5
     - __when was the issue reported:__ 2018-01-19 09:24:42 GMT
     - __when was the issue closed:__ 2018-02-08 08:43:17 GMT
@@ -107,11 +107,11 @@ are good for beginner contributors:__ yes
 __Pull requests__
 
 - __how many open pull requests are there:__ 17
-    - __url for the last pull request created:__ [](https://github.com/openmrs/openmrs-core/pull/2568)
+    - __url for the last pull request created:__ [link](https://github.com/openmrs/openmrs-core/pull/2568)
     - __when was the pull request made:__ 7 hours ago (2018-02-08 4:42AM)
 
 - __how many closed pull requests are there:__ 2,551
-    - __url for the last pull request closed:__ [](https://github.com/openmrs/openmrs-core/pull/2558)
+    - __url for the last pull request closed:__ [link](https://github.com/openmrs/openmrs-core/pull/2558)
     - __how many users discussed the pull request:__ 3
     - __when was the pull request made:__ 21 days ago (January 18th 2018)
     - __when was the pull request closed:__ 21 days ago (January 18th 2018)
