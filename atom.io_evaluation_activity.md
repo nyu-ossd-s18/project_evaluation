@@ -2,9 +2,9 @@
 
 
 
-__Project Name:__  
+__Project Name:__  atom.io
 
-__Evaluation Team:__
+__Evaluation Team:__ Emilio Schadt, 
 
 ---
 
