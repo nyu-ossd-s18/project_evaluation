@@ -16,28 +16,39 @@ may be very hard to find. Do not _google_ for answers.
 
 __Project website:__
 
+http://mifos.org/
+
 __What is the purpose of the project:__
 
-
-
-
-
+Only open platform for financial inclusion, we provide affordable, adaptable and accessible solutions for any segment of the market, new and small financial institutions can easily start with our community app in a hosted environment, medium and large institutions that are evolving into full-service providers of financial inclusion can use our global network of IT partners to configure a Mifos X solution, and innovators can build and scale entirely new solutions on our API-driven platform.
 
 
 __How easy was it to find information about contributing on the website?__
 
-
-
-
+So it was relatively okay finding information on how to contribute. We went to the website, clocked on Resources / Documentation / Technical Documentation / Getting Started for Developers and there is where they have listed information on how to contribute to the project with nore detail. 
 
 
 __Contributing instructions:__ 
 
+https://mifosforge.jira.com/wiki/spaces/MDZ/pages/92012609/How+to+contribute
+
+
 __URL for the code repository:__
+
+https://github.com/openMF/mifosx
+So we found this link in the documentation, but this repo is now deprecated and it links us to a project called Apache Finteract which seems to be the new direction in which they're moving towards. 
+
+Apache Finteract: https://github.com/apache/fineract
 
 __Bug/Issue tracker link:__
 
+https://github.com/openMF/mifosx/issues 
+
+This issue link is still under the Mifos repo so it does make it a little confusing since the new project is under Apache Finteract. 
+
 __Mailing list:__
+
+https://sourceforge.net/projects/mifos/lists/mifos-developer
 
 __Chat channel:__
 
@@ -49,13 +60,24 @@ __Chat channel:__
 
 __License:__ 
 
-__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ 
+Open Source MPL V2
+
+__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__  
+
+Yes, the Mozilla Public License. 
 
 __Programming Language:__
 
+Java 
+
 __URL for contributing instructions:__
 
+https://mifosforge.jira.com/wiki/spaces/MDZ/pages/92012609/How+to+contribute
+
+
 __URL for code of conduct / community norms / community guildelines:__ 
+
+
 
 __URL for instructions for users to dondload an istall the package:__
 
