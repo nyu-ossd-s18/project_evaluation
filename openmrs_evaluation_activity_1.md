@@ -74,7 +74,7 @@ each of them list the link to their latest commit__:
 3. Djazayeri - 788 commits; latest commit: https://github.com/openmrs/openmrs-core/commit/b59038ec28e08ce9fe61f094d0c0c8fb8b72070e
 
 __Number of commits:__
-10,477
+10,477  
 __Latest commit__
 February 5, 2018    
 - __link to the commit:__ https://github.com/openmrs/openmrs-core/commit/b59038ec28e08ce9fe61f094d0c0c8fb8b72070e
