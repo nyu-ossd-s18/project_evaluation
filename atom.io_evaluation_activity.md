@@ -100,17 +100,17 @@ are good for beginner contributors:__ No
 
 __Pull requests__
 
-- __how many open pull requests are there:__ 
-    - __url for the last pull request created:__
-    - __when was the pull request made:__
+- __how many open pull requests are there:__ 127
+    - __url for the last pull request created:__ https://github.com/atom/atom/pull/16698
+    - __when was the pull request made:__ 17 hours ago
 
-- __how many closed pull requests are there:__
-    - __url for the last pull request closed:__
-    - __how many users discussed the pull request:__
-    - __when was the pull request made:__
-    - __when was the pull request closed:__ 
+- __how many closed pull requests are there:__ 3,648
+    - __url for the last pull request closed:__ https://github.com/atom/atom/pull/16685
+    - __how many users discussed the pull request:__ 1
+    - __when was the pull request made:__ 4 days ago
+    - __when was the pull request closed:__ 3 days ago
     
-- __do maintainers respond quickly to pull requests when they are opened? :__ 
+- __do maintainers respond quickly to pull requests when they are opened? :__ Yes
 
 
 
