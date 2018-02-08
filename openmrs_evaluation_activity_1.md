@@ -14,21 +14,15 @@ In the following section you should only enter the information that you
 found on the project website. Some of the answers will be impossible to find, others
 may be very hard to find. Do not _google_ for answers. 
 
-__Project website:__ openmrs.org
+__Project website:__ https://openmrs.org/
 
 __What is the purpose of the project:__
 
 OpenMRS is an open source enterprise electronic medical record system platform. Their mission is to improve health care delivery in resource-constrained environments by coordinating a global community to create and support this software.
 
-
-
-
 __How easy was it to find information about contributing on the website?__
 
 Relatively easy - under the “Get Involved” tab
-
-
-
 
 __Contributing instructions:__ 
 https://wiki.openmrs.org/display/docs/Getting+Started+as+a+Developer
@@ -80,7 +74,7 @@ each of them list the link to their latest commit__:
 3. Djazayeri - 788 commits; latest commit: https://github.com/openmrs/openmrs-core/commit/b59038ec28e08ce9fe61f094d0c0c8fb8b72070e
 
 __Number of commits:__
-10,477  
+10,477
 __Latest commit__
 February 5, 2018    
 - __link to the commit:__ https://github.com/openmrs/openmrs-core/commit/b59038ec28e08ce9fe61f094d0c0c8fb8b72070e
@@ -102,8 +96,6 @@ __Issues__
     
 - __is there active discussion on the issues:__ yes
 
-
-
 - __are there issues marked "good for newbies", "beginner" or some other indicator to imply that they
 are good for beginner contributors:__ Yes - labelled “intro”
 
@@ -123,9 +115,6 @@ __Pull requests__
 - __do maintainers respond quickly to pull requests when they are opened? :__ 
 Yeah, usually on the same day
 
-
-
-
 ---
 
 
@@ -134,15 +123,13 @@ How friendly is this project for beginner contributors?
 Friendly - have beginner issues and contributing instructions
 
 Do the maintainers respond helpfully to questions in issues?
-Yes?
+Yes.
 
 Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?
 Yes.
 
-
 Do pull requests get reviewed?
-Yes.
-
+Yes, but a Coveralls bot and the community.
 
 Do maintainers thank people for their contributions?
-Yes, sometimes
+Yes, sometimes.
