@@ -69,7 +69,8 @@ Open Source MPL V2
 
 __Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__  
 
-Yes, the Mozilla Public License. 
+Yes, the Mozilla Public License. (MifosX) 
+Apache License Version 2.0 (Apache Finteract) 
 
 __Programming Language:__
 
@@ -85,6 +86,9 @@ __URL for code of conduct / community norms / community guildelines:__
 
 
 __URL for instructions for users to dondload an istall the package:__
+
+http://mifos.org/resources/documentation/
+
 
 __Number of contributors:__
 
@@ -157,8 +161,14 @@ There weren't really any issues labeled for beginners.
 __Pull requests__
 
 - __how many open pull requests are there:__ 
+    14 open pull requests - Mifos X
+    17 open pull requests - Apache Finteract 
     - __url for the last pull request created:__
+    https://github.com/openMF/mifosx/pull/1634 - MifosX
+    https://github.com/apache/fineract/pull/441 - Apache Finteract
     - __when was the pull request made:__
+    Jun 3, 2017 - MifosX
+    An Hour Ago (Feb 8, 2018) - Apache Finteract 
 
 - __how many closed pull requests are there:__
     - __url for the last pull request closed:__
