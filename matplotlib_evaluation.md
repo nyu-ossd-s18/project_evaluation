@@ -15,7 +15,7 @@ found on the project website. Some of the answers will be impossible to find, ot
 may be very hard to find. Do not _google_ for answers. 
 
 __Project website:__ 
-
+https://matplotlib.org/index.html
 
 __What is the purpose of the project:__
 
@@ -50,53 +50,59 @@ Development: matplotlib-devel@python.org
 
 __Chat channel:__
 
-Could not find it on the main page. 
+They use Gitter, which is on the same page as the code of conduct page 
 
 ---
 
 ## Finding info at the project repository and bug/issue tracker.
 
-__License:__ Yes, uses BSD public licenses and GNU 
+__License:__ Yes, uses BSD public licenses and GNU/GPL
 
 __Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ 
 
+All the code is OSI approved because all the contributions has some form of either BSD/GPL on it 
 
-
-__Programming Language:__
+__Programming Language:__ Python with C/C++ extensions 
 
 __URL for contributing instructions:__
 
+https://matplotlib.org/devel/contributing.html
+
 __URL for code of conduct / community norms / community guildelines:__ 
 
-__URL for instructions for users to dondload an istall the package:__
+They follow the Python Software Foundation Code of Conduct 
+https://www.python.org/psf/codeofconduct/
 
-__Number of contributors:__
+__URL for instructions for users to dondload and install the package:__
+https://matplotlib.org/users/installing.html
+
+__Number of contributors:__  682
 
 __Usernames of three contributors with largest number of commits; for
 each of them list the link to their latest commit__:
 
-1.
-2.
-3.
+1. mdboom: 2,972 commits
+2. jdh2358: 2,104 commits
+3. tacaswell: 1,982 commits 
 
-__Number of commits:__
+__Number of commits:__ 24,345 
 
-__Latest commit__
+__Latest commit__ 7 hours ago 
     
-- __link to the commit:__
-- __who made that commit:__
+- __link to the commit:__ https://github.com/matplotlib/matplotlib/commit/a5367c16129d0b1c75bd62312721e27c86df177d
+- __who made that commit:__ dstansby 
 
 
 __Issues__
 
-- __how many open issues are there:__ 
-    - __url for the last issue created:__
-    - __how many users discuss the issue:__
-    - __when was the issue reported:__
+- __how many open issues are there:__ 1,073
+    - __url for the last issue created:__ https://github.com/matplotlib/matplotlib/issues/10398
+    - __how many users discuss the issue:__ No one 
+    - __when was the issue reported:__ One hour ago 
 
-- __how many closed issues are there:__
-    - __url for the last issue closed:__
-    - __how many users discussed the issue:__
+- __how many closed issues are there:__ 3,436
+    - __url for the last issue closed:__ https://github.com/matplotlib/matplotlib/issues/10384
+    - __how many users discussed the issue:__ 3 users 
     - __when was the issue reported:__
     - __when was the issue closed:__ 
     
