@@ -19,7 +19,7 @@ https://matplotlib.org/index.html
 
 __What is the purpose of the project:__
 
-Matplotlib is an open source alternative 
+Matplotlib is an open source alternative that provides users with a Python 2D plotting library which produces publication quality figures.
 
 
 
@@ -103,33 +103,33 @@ __Issues__
 - __how many closed issues are there:__ 3,436
     - __url for the last issue closed:__ https://github.com/matplotlib/matplotlib/issues/10384
     - __how many users discussed the issue:__ 3 users 
-    - __when was the issue reported:__
-    - __when was the issue closed:__ 
+    - __when was the issue reported:__ 3 days ago 
+    - __when was the issue closed:__ 2 days ago 
     
 - __is there active discussion on the issues:__ 
 
-
+Yes - there are comments for almost all the issues except the most recent ones. 
 
 - __are there issues marked "good for newbies", "beginner" or some other indicator ot=o imply that they
 are good for beginner contributors:__ 
 
-
+Yes 
 
 __Pull requests__
 
-- __how many open pull requests are there:__ 
-    - __url for the last pull request created:__
-    - __when was the pull request made:__
+- __how many open pull requests are there:__ 283 
+    - __url for the last pull request created:__ https://github.com/matplotlib/matplotlib/pull/10395
+    - __when was the pull request made:__ 8 hours ago 
 
-- __how many closed pull requests are there:__
-    - __url for the last pull request closed:__
-    - __how many users discussed the pull request:__
-    - __when was the pull request made:__
-    - __when was the pull request closed:__ 
+- __how many closed pull requests are there:__ 5604
+    - __url for the last pull request closed:__ https://github.com/matplotlib/matplotlib/pull/10394
+    - __how many users discussed the pull request:__ 4 paticipants 
+    - __when was the pull request made:__  10 hours ago 
+    - __when was the pull request closed:__ 7 hours ago
     
 - __do maintainers respond quickly to pull requests when they are opened? :__ 
 
-
+Yes - some were open/closed within an hour - three hours. 
 
 
 
