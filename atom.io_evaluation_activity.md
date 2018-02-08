@@ -4,7 +4,7 @@
 
 __Project Name:__  atom.io
 
-__Evaluation Team:__ Emilio Schadt, 
+__Evaluation Team:__ Emilio Schadt, Adnan Islam, Nadira Dewji
 
 ---
 
