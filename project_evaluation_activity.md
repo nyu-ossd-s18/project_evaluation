@@ -2,9 +2,9 @@
 
 
 
-__Project Name:__  
+__Project Name:__ Matplotlib 
 
-__Evaluation Team:__
+__Evaluation Team:__ Shiyang, Zander, Ola, Rohit, Kenneth 
 
 ---
 
@@ -14,7 +14,8 @@ In the following section you should only enter the information that you
 found on the project website. Some of the answers will be impossible to find, others
 may be very hard to find. Do not _google_ for answers. 
 
-__Project website:__
+__Project website:__ 
+
 
 __What is the purpose of the project:__
 
@@ -26,18 +27,24 @@ __What is the purpose of the project:__
 
 __How easy was it to find information about contributing on the website?__
 
+It was very easy to find information on contributing. You can just scroll down on the website and you can find a link to their github page under "Open source". On the github homepage there's a site about contributing. On there, there's information about reporting bugs, how to contribute code, and a holistic list of instructions. 
 
 
 
-
-
-__Contributing instructions:__ 
+__Contributing instructions:__ On the contributing guide linked from the matplotlib main github page, there's an entire page about contributing instructions. There's information about retrieving and installing the latest version of the code
 
 __URL for the code repository:__
 
-__Bug/Issue tracker link:__
+__Bug/Issue tracker link:__ 
 
-__Mailing list:__
+__Mailing list:__ 
+
+Under contacts
+
+Three different mailing lists: 
+Users: matplotlib-users@python.org
+Announcement: matplotlib-announcement@python.org
+Development: matplotlib-devel@python.org
 
 __Chat channel:__
 
