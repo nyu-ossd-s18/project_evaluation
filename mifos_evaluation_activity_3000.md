@@ -4,7 +4,11 @@
 
 __Project Name:__  
 
+Mifos_3000
+
 __Evaluation Team:__
+
+Celina, Dana, Melissa, Rosa 
 
 ---
 
@@ -51,8 +55,9 @@ __Mailing list:__
 https://sourceforge.net/projects/mifos/lists/mifos-developer
 
 __Chat channel:__
-
-
+Glitter Channel: https://gitter.im/openMF/mifos
+Mifos Connect: https://gitter.im/openMF/mifos
+Apache Finteract / Mifos Mailing Lists: http://fineract.apache.org/#contribute
 
 ---
 
@@ -83,22 +88,47 @@ __URL for instructions for users to dondload an istall the package:__
 
 __Number of contributors:__
 
+MifosX: 77
+Apache Finteract: 103
+
 __Usernames of three contributors with largest number of commits; for
 each of them list the link to their latest commit__:
 
-1.
-2.
-3.
+MifosX
+1. keithwoodlock
+2. vishwasbabu
+3. johnw65
+
+Apache Finteract
+1. keithwoodlock
+2. vishwasbabu
+3. johnw65
 
 __Number of commits:__
 
+MifosX: 4230
+Apache Finteract:4746
+
 __Latest commit__
+
+MifosX: Feb 1, 2016
+Apache Finteract: Feb 6, 2018
     
 - __link to the commit:__
+
+MifosX: https://github.com/openMF/mifosx/commit/e409a4f17cc183f79d38b7e5d4d6475408d70641
+Apache Finteract: https://github.com/apache/fineract/commit/8ac5485544833f5ca31ce1d72466451f6b098735
+
 - __who made that commit:__
 
+MifosX: @nazeer1100126
+Apache Finteract: @terencemo 
 
 __Issues__
+
+MifosX: 15
+Apache Fin: 0
+
 
 - __how many open issues are there:__ 
     - __url for the last issue created:__
