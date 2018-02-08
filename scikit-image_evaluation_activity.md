@@ -6,10 +6,10 @@ __Project Name:__
 Scikit-Image
 
 __Evaluation Team:__
-Marcus Guimaraes
-Matthew Herman
-Wentao Zou
-Jyotsna Fernandes
+* Marcus Guimaraes
+* Matthew Herman
+* Wentao Zou
+* Jyotsna Fernandes
 
 ---
 
@@ -163,26 +163,31 @@ __Pull requests__
 
 ## Summary assesment
 How friendly is this project for beginner contributors? 
+
     Seems pretty friendly.  They have many open novice-difficulty issues, seem quite responsive to new issues/PRs/questions,
     and offer a mentorship program!
 
 
 Do the maintainers respond helpfully to questions in issues?
+
     They seem quite helpful.  They develop solutions, suggest alternatives, ask followups, and generally try to ensure people have a good time
     using the software
 
 
 Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?
+
     People are quite friendly.  Their chat seems like it can go inactive at times, occasionally less active than issues/PRs.
 
 
 Do pull requests get reviewed?
+
     Yes, although it sometimes takes time for issues to be reviewed.  In general they're good, but there are some PRs that have been languishing
     for some time (though they mostly fail build tests/cause merge conflicts, etc.)
 
 
 
 Do maintainers thank people for their contributions?
+
     We don't see the word "thanks" popping up very often, but there is a general tacit sense of appreciation.
 
 
