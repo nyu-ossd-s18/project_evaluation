@@ -143,10 +143,14 @@ Apache Fin: 0
     
 - __is there active discussion on the issues:__ 
 
+Yes, there is active discussion on some issues. 
+
 
 
 - __are there issues marked "good for newbies", "beginner" or some other indicator ot=o imply that they
 are good for beginner contributors:__ 
+
+There weren't really any issues labeled for beginners.
 
 
 
@@ -164,29 +168,32 @@ __Pull requests__
     
 - __do maintainers respond quickly to pull requests when they are opened? :__ 
 
-
-
-
+They don't respond that quickly to pull requests and most issues were closed by the same person because they seemed to just figure it out by themselves. 
 
 ---
 
 
 ## Summary assesment
 How friendly is this project for beginner contributors? 
+It is not that friendly for beginner contributers because it is a little confusing to find information on contributing and it doesn't seem to have a strong community that helps each other. It looks like it had busier phases but it seems like it has kind of slowed down at this point. 
 
 
 Do the maintainers respond helpfully to questions in issues?
+Maintainers do not respond that much to questions that other people have. 
 
 
 Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?
-
+People are quite friendly on the channel anbd thee is stuff from quite recently. The chat might be a better communication place to go for help regarding the project. Generally they are quite friendly, we just noticed that they might not be keeping track of them as much. 
 
 
 Do pull requests get reviewed?
+Some pull requests get reviewed but they dont't really keep track of all of it. 
 
 
 
 Do maintainers thank people for their contributions?
+They don't really thank people openly for their contributions. 
+
 
 
 
