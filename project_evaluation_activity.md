@@ -89,13 +89,51 @@ __Issues__
     - __when was the issue reported:__
     - __when was the issue closed:__ 
     
-    
+- __is there active discussion on the issues:__ 
+
+
+
 - __are there issues marked "good for newbies", "beginner" or some other indicator ot=o imply that they
 are good for beginner contributors:__ 
+
+
+
+__Pull requests__
+
+- __how many open pull requests are there:__ 
+    - __url for the last pull request created:__
+    - __when was the pull request made:__
+
+- __how many closed pull requests are there:__
+    - __url for the last pull request closed:__
+    - __how many users discussed the pull request:__
+    - __when was the pull request made:__
+    - __when was the pull request closed:__ 
+    
+- __do maintainers respond quickly to pull requests when they are opened? :__ 
+
+
+
+
 
 ---
 
 
 ## Summary assesment
 How friendly is this project for beginner contributors? 
+
+
+Do the maintainers respond helpfully to questions in issues?
+
+
+Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?
+
+
+
+Do pull requests get reviewed?
+
+
+
+Do maintainers thank people for their contributions?
+
 
