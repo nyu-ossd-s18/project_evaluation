@@ -2,9 +2,9 @@
 
 
 
-__Project Name:__Mifos  
+__Project Name:__ Mifos  
 
-__Evaluation Team:__Gabe Gordon, Alvaro Luken, Raphael Rios, Natalie Totonchy
+__Evaluation Team:__ Gabe Gordon, Alvaro Luken, Raphael Rios, Natalie Totonchy
 
 ---
 
@@ -14,7 +14,7 @@ In the following section you should only enter the information that you
 found on the project website. Some of the answers will be impossible to find, others
 may be very hard to find. Do not _google_ for answers. 
 
-__Project website:__http://mifos.org/
+__Project website:__ http://mifos.org/
 
 __What is the purpose of the project:__
 
