@@ -171,8 +171,14 @@ __Pull requests__
     An Hour Ago (Feb 8, 2018) - Apache Finteract 
 
 - __how many closed pull requests are there:__
+    1597 (Mifos)
+    424 (Apache Finteract)
     - __url for the last pull request closed:__
+    Dec 5, 2016 (MifosX)
+    Feb 6, 2018 (Apache Finteract)
     - __how many users discussed the pull request:__
+    3 people (MifosX)
+    1 person (Apache Finteract)
     - __when was the pull request made:__
     - __when was the pull request closed:__ 
     
