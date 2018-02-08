@@ -120,20 +120,20 @@ __Pull requests__
 
 
 ## Summary assesment
-How friendly is this project for beginner contributors? 
+How friendly is this project for beginner contributors? Friendly, but not for novices. Most of issues are handled by a few contributors.
 
 
-Do the maintainers respond helpfully to questions in issues?
+Do the maintainers respond helpfully to questions in issues? No questions in issues.
 
 
-Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?
-
-
-
-Do pull requests get reviewed?
+Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)? Yes
 
 
 
-Do maintainers thank people for their contributions?
+Do pull requests get reviewed? Yes
+
+
+
+Do maintainers thank people for their contributions? Yes, always say "Thanks for PR".
 
 
