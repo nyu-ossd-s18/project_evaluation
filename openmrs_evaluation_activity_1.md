@@ -129,7 +129,7 @@ Are people friendly in the issues, discussion forum, and chat (for example, IRC 
 Yes.
 
 Do pull requests get reviewed?
-Yes, but a Coveralls bot and the community.
+Yes, by a Coveralls bot and the community.
 
 Do maintainers thank people for their contributions?
 Yes, sometimes.
