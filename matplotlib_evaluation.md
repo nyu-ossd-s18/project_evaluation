@@ -97,12 +97,12 @@ __Issues__
 
 - __how many open issues are there:__ 1,073
     - __url for the last issue created:__ https://github.com/matplotlib/matplotlib/issues/10398
-    - __how many users discuss the issue:__ No one 
+    - __how many users discuss the issue:__ 1 user
     - __when was the issue reported:__ One hour ago 
 
 - __how many closed issues are there:__ 3,436
     - __url for the last issue closed:__ https://github.com/matplotlib/matplotlib/issues/10384
-    - __how many users discussed the issue:__ 3 users 
+    - __how many users discussed the issue:__ 4 users 
     - __when was the issue reported:__ 3 days ago 
     - __when was the issue closed:__ 2 days ago 
     
