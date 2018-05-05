@@ -57,7 +57,7 @@ __URL for contributing instructions:__
 
 __URL for code of conduct / community norms / community guildelines:__ 
 
-__URL for instructions for users to dondload an istall the package:__
+__URL for instructions for users to download and istall the package:__
 
 __Number of contributors:__
 
